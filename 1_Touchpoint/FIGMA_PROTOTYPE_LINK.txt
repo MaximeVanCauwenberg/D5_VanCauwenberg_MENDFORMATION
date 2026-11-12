@@ -1,0 +1,4 @@
+MENDFORMATION - Second Chance Ticket (final four-screen prototype)
+https://www.figma.com/design/vIATL7YMWBXr6vaqgVWQ8d/Prototype-V2?node-id=0-1
+Flow: Payment Reward -> Festival Offer -> Registration -> Digital Ticket.
+The ticket code and QR are demonstrational.
