@@ -1,2 +1,9 @@
-# Backup videos (optional)
-The official assignment requires capture and motion MP4s separately on Canvas, and specifically says no video files in GitHub. This optional folder provides backup copies at student request, and does not replace Canvas uploads. The prepared ZIP includes prototype capture, key visual motion and post-pitch usability-test recording.
+# Video archive
+
+Supplementary copies of three project recordings:
+
+- `D5_VanCauwenberg_capture.mp4` · silent, subtitled walkthrough of the final four-screen prototype
+- `D5_VanCauwenberg_motion.mp4` · finished MENDFORMATION logo animation
+- `post_pitch_user_test.mp4` · recorded post-pitch user interaction
+
+The capture and motion videos are **also uploaded separately through Canvas**, in accordance with the official D-5 submission instructions.
